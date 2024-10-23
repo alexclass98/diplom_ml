@@ -1,0 +1,14 @@
+{
+    "kafka": {
+        "bootstrap_servers": ["localhost:29092"],
+        "topic": "testnum",
+        "group_id": "test"
+    },
+    "email": {
+        "sender": "alexorange707@gmail.com",
+        "password": "jdnpdzqcngqvyruu",
+        "smtp_host": "smtp.gmail.com",
+        "smtp_port": 587,
+        "subject": "DZ PO ST Balabanov!"
+    }
+}
